@@ -16,4 +16,4 @@ async def on_message(message):
     if message.content.startswith('$привет'):
         await message.channel.send('Здарова!')
 
-client.run('MTAzOTUwNDAxODU1ODQzNTMyOA.Gm9zW4.Iqd4ckk1-IqrVINFL0VBDQpvvgtxKDJAyC9d44')
+client.run('paste your token')
