@@ -1,5 +1,5 @@
 # EasyRPC
-## EasyRPC - это проект, направленный на простое и доступное использоание Discord Rich Presence, позволяющей делать всякие смехахулечки.
+## EasyRPC - это проект, направленный на простое и доступное использование Discord Rich Presence, позволяющей делать всякие смехахулечки.
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 ![image](https://user-images.githubusercontent.com/117188933/211186253-97f16d03-88f8-424b-9ee6-f8c011678cc2.png)
