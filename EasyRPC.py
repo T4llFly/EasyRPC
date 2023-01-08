@@ -1,3 +1,6 @@
+#This app is not working for this moment. If you want, you can help me. Fork this app and write PyPresence system.
+#dev by TallFly
+
 from pypresence import Presence
 import time
 import PySimpleGUI as sg
