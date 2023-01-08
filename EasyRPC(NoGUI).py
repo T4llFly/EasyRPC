@@ -1,7 +1,7 @@
 from pypresence import Presence
 import time
 
-clientID = input()
+clientID = input('Введите ваш Client ID: ')
 RPC = Presence(clientID)
 
 state = input()
